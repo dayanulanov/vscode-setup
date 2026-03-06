@@ -127,8 +127,10 @@ code --install-extension yoavbls.pretty-ts-errors
 
 ```
 .
-├── extensions.json
-├── settings.json
+├── .vscode
+├──── extensions.json
+├──── settings.json
+├── LICENSE
 └── README.md
 ```
 
