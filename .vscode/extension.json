@@ -1,0 +1,15 @@
+[
+  "dbaeumer.vscode-eslint@3.0.24",
+  "donjayamanne.githistory@0.6.20",
+  "eamodio.gitlens@17.11.0",
+  "esbenp.prettier-vscode@12.3.0",
+  "file-icons.file-icons@1.1.0",
+  "jock.svg@1.5.4",
+  "johnsoncodehk.vscode-tsconfig-helper@0.4.4",
+  "ms-vscode.vscode-typescript-next@6.0.20260305",
+  "rvest.vs-code-prettier-eslint@6.0.0",
+  "streetsidesoftware.code-spell-checker@4.5.6",
+  "streetsidesoftware.code-spell-checker-russian@2.2.4",
+  "vue.volar@3.2.5",
+  "yoavbls.pretty-ts-errors@0.8.3"
+]
